@@ -18,7 +18,7 @@ We have a google drive folder with some ressources and presentations that we sha
 <ul>
   <li> September 20th: Introductory meeting - Identify ongoing ML projects, set expectations/needs for this year. We can also use that time to answer questions! </li>
   <li> October 4th: Thibaut Dejean - Graph neural networks </li>
-  <li> October 25th: </li>
+  <li> October 25th: Laura Malaguti Modernell - INDIVIDUAL VARIABILITY IN BRAIN REPRESENTATIONS OF PAIN CONTROL SYSTEMS: TOWARD PERSONALIZED NEUROMODULATION TREATMENTS </li>
   <li> November 8th: </li>
   <li> November 22nd: </li>
   <li> December 6th: </li>
