@@ -10,9 +10,6 @@ These meetings gather all level researchers who are either using, plan to use, o
 
 **Researchers with all levels in machine learning are welcome.**
 
-We have a google drive folder with some ressources and presentations that we share, it's not very clean but contains good ressources if you want to have an idea of the main topics we usually discuss during the meetings (https://drive.google.com/drive/folders/1aNwgxVpTC1yg41f2sBHP-RoVBZEyguKg).
-
-
 ## Agenda for the coming meetings:
 
 <ul>
