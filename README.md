@@ -16,7 +16,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> September 20th: Introductory meeting - Identify ongoing ML projects, set expectations/needs for this year. We can also use that time to answer questions! </li>
   <li> October 4th: Thibaut Dejean - Graph neural networks </li>
   <li> October 25th: Laura Malaguti Modernell - INDIVIDUAL VARIABILITY IN BRAIN REPRESENTATIONS OF PAIN CONTROL SYSTEMS: TOWARD PERSONALIZED NEUROMODULATION TREATMENTS </li>
-  <li> November 8th: </li>
+  <li> November 8th: Myriam Bontonou (ENS Lyon) - Machine learning for genomics data</li>
   <li> November 22nd: </li>
-  <li> December 6th: </li>
+  <li> December 6th: Romain Ligneul - </li>
 </ul>
