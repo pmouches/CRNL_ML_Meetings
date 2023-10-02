@@ -18,5 +18,5 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> October 25th: Laura Malaguti Modernell - INDIVIDUAL VARIABILITY IN BRAIN REPRESENTATIONS OF PAIN CONTROL SYSTEMS: TOWARD PERSONALIZED NEUROMODULATION TREATMENTS </li>
   <li> November 8th: Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data</li>
   <li> November 22nd: Samantha Williams (University of York. United Kingdom) - </li>
-  <li> December 6th: Romain Ligneul - </li>
+  <li> December 6th: Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables </li>
 </ul>
