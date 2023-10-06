@@ -15,8 +15,10 @@ These meetings gather all level researchers who are either using, plan to use, o
 <ul>
   <li> September 20th: Introductory meeting - Identify ongoing ML projects, set expectations/needs for this year. We can also use that time to answer questions! </li>
   <li> October 4th: Thibaut Dejean - Graph neural networks </li>
-  <li> October 25th: Laura Malaguti Modernell - INDIVIDUAL VARIABILITY IN BRAIN REPRESENTATIONS OF PAIN CONTROL SYSTEMS: TOWARD PERSONALIZED NEUROMODULATION TREATMENTS </li>
+  <li> October 25th: Amélie Richard & Dmitrii Todorov - AI based tools for research: Whisper, SPPAS, ChatGPT, Elicit, etc </li>
   <li> November 8th: Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data</li>
-  <li> November 22nd: Samantha Williams (University of York. United Kingdom) - </li>
+  <li> November 22nd:  </li>
   <li> December 6th: Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables </li>
+  <li> January 10th: </li>
+  <li> January 24th: Samantha Williams (University of York. United Kingdom) - </li>
 </ul>
