@@ -19,6 +19,9 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> November 8th: Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data</li>
   <li> November 22nd:  </li>
   <li> December 6th: Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables </li>
-  <li> January 10th: </li>
-  <li> January 24th: Samantha Williams (University of York. United Kingdom) - </li>
+  <li> January 10th: Bruno Michelot - Multimodal data classification (video and EEG) and temporal explainability </li>
+  <li> January 24th: Samantha Williams (University of York. UK) - </li>
+  <li> February 7th:  </li>
+  <li> February 21st:  </li>
+  <li> March 6th:  </li>
 </ul>
