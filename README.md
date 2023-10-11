@@ -13,15 +13,19 @@ These meetings gather all level researchers who are either using, plan to use, o
 ## Agenda for the coming meetings:
 
 <ul>
-  <li> September 20th: Introductory meeting - Identify ongoing ML projects, set expectations/needs for this year. We can also use that time to answer questions! </li>
-  <li> October 4th: Thibaut Dejean - Graph neural networks </li>
-  <li> October 25th: Amélie Richard & Dmitrii Todorov - AI based tools for research: Whisper, SPPAS, ChatGPT, Elicit, etc </li>
-  <li> November 8th: Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data</li>
-  <li> November 22nd:  </li>
-  <li> December 6th: Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables </li>
-  <li> January 10th: Bruno Michelot - Multimodal data classification (video and EEG) and temporal explainability </li>
-  <li> January 24th: Samantha Williams (University of York. UK) - </li>
-  <li> February 7th:  </li>
-  <li> February 21st:  </li>
-  <li> March 6th:  </li>
+  <li> <p><strong>September 20th:</strong></p> Introductory meeting - Identify ongoing ML projects, set expectations/needs for this year. We can also use that time to answer questions! </li>
+  <li> <p><strong>October 4th:</strong></p> Thibaut Dejean - Graph neural networks </li>
+  <li> <p><strong>October 25th:</strong></p> Amélie Richard & Dmitrii Todorov - AI based tools for research: Whisper, SPPAS, ChatGPT, Elicit, etc 
+  <br /> Room: Bibliothèque DYCOG (building in front of the Neurocampus, ground floor)</li>
+  <li> <p><strong>November 8th:</strong></p> Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data
+  <br /> Room: Bibliothèque DYCOG (building in front of the Neurocampus, ground floor)</li></li>
+  <li> <p><strong>November 22nd:</strong></p>  
+  <br /> Room: F22, Neurocampus</li></li>
+  <li> <p><strong>December 6th:</strong></p> Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables 
+  <br /> Room: F22, Neurocampus</li></li>
+  <li> <p><strong>January 10th:</strong></p> Bruno Michelot - Multimodal data classification (video and EEG) and temporal explainability </li>
+  <li> <p><strong>January 24th:</strong></p> Samantha Williams (University of York. UK) - </li>
+  <li> <p><strong>February 7th:</strong></p>  </li>
+  <li> <p><strong>February 21st:</strong></p>  </li>
+  <li> <p><strong>March 6th:</strong></p>  </li>
 </ul>
