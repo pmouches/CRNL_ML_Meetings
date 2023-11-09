@@ -19,8 +19,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <br /> Room: Bibliothèque DYCOG (building in front of the Neurocampus, ground floor)</li>
   <li> <p><strong>November 8th:</strong></p> Myriam Bontonou (ENS Lyon) - A comparison of various machine learning models trained to classify pathological conditions from omics data
   <br /> Room: Bibliothèque DYCOG (building in front of the Neurocampus, ground floor)</li></li>
-  <li> <p><strong>November 22nd:</strong></p>  
-  <br /> Room: F22, Neurocampus</li></li>
+  <li> <p><strong>November 22nd: CANCELED</strong></p>  
   <li> <p><strong>December 6th:</strong></p> Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables 
   <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>January 10th:</strong></p> Bruno Michelot - Multimodal data classification (video and EEG) and temporal explainability </li>
