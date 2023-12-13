@@ -27,4 +27,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>February 7th:</strong></p>  </li>
   <li> <p><strong>February 21st:</strong></p>  </li>
   <li> <p><strong>March 6th:</strong></p>  </li>
+  <li> <p><strong>March 20th:</strong></p>  </li>
+  <li> <p><strong>April 3rd:</strong></p>  </li>
+  <li> <p><strong>April 17th:</strong></p>  </li>
 </ul>
