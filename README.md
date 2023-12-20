@@ -22,7 +22,8 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>November 22nd: CANCELED</strong></p>  
   <li> <p><strong>December 6th:</strong></p> Romain Ligneul - Supervised and unsupervised methods for segmentation and classification of behavioral syllables 
   <br /> Room: F22, Neurocampus</li></li>
-  <li> <p><strong>January 10th:</strong></p> Bruno Michelot - Multimodal data classification (video and EEG) and temporal explainability </li>
+  <li> <p><strong>January 10th:</strong></p> Bruno Michelot - Holistic Tracking of Fine-Grained Behavioral Features through Machine Learning </li>
+  <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>January 24th:</strong></p> Samantha Williams (University of York. UK) - </li>
   <li> <p><strong>February 7th:</strong></p>  </li>
   <li> <p><strong>February 21st:</strong></p>  </li>
