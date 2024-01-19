@@ -25,6 +25,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>January 10th:</strong></p> Bruno Michelot - Holistic Tracking of Fine-Grained Behavioral Features through Machine Learning </li>
   <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>January 24th:</strong></p> Samantha Williams (University of York. UK) - Multivariate kernel density modelling of phonemes for L1 identification </li>
+  <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong>February 7th:</strong></p>  </li>
   <li> <p><strong>February 21st:</strong></p>  </li>
   <li> <p><strong>March 6th:</strong></p>  </li>
