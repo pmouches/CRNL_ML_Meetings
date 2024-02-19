@@ -30,7 +30,8 @@ These meetings gather all level researchers who are either using, plan to use, o
   <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>March 6th:</strong></p> Interns session: Thomas Geraud and Gwendan Percevault</li>
   <br /> Room: F22, Neurocampus</li></li>
-  <li> <p><strong>March 20th:</strong></p> Behnoosh NAMDARZADEH (Université Paris Cité) - Predicting Neural Machine Translation Success on Surface or BPE Forms? The Case of Mistranslations of French Spoken Dislocations into English </li>
+  <li> <p><strong>March 20th:</strong></p> Behnoosh NAMDARZADEH (Université Paris Cité) - Predicting Neural Machine Translation Success on Surface or BPE Forms? The Case of Mistranslations of French Spoken Dislocations into English </li></li>
+  <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong>April 3rd:</strong></p> Sandrine Parrot - Why and how using multivariate analysis in neurochemistry studies?</li>
   <li> <p><strong>April 17th:</strong></p>  </li>
   <li> <p><strong>April 24th:</strong></p>  </li>
