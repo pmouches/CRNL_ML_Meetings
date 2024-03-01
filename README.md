@@ -28,7 +28,9 @@ These meetings gather all level researchers who are either using, plan to use, o
   <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong>February 21st:</strong></p> Reza Shetab (postdoc fellow, Ecole Centrale de Lyon) - From data to decisions, exploring deep learning in robotics and behavior learning </li>
   <br /> Room: F22, Neurocampus</li></li>
-  <li> <p><strong>March 6th:</strong></p> Interns session: Thomas Geraud and Gwendan Percevault</li>
+  <li> <p><strong>March 6th:</strong></p> (Interns session)</li>
+  <br /> - Thomas Geraud: Time decoding of replay mechanism involved in memory consolidation
+  <br /> - Gwendan Percevault: Cortical Spreading Depolarizations in acutely brain injured patients
   <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>March 20th:</strong></p> Behnoosh NAMDARZADEH (Université Paris Cité) - Predicting Neural Machine Translation Success on Surface or BPE Forms? The Case of Mistranslations of French Spoken Dislocations into English </li></li>
   <br /> Room: F28, Neurocampus</li></li>
