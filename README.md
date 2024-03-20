@@ -38,5 +38,6 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>April 17th:</strong></p>  </li>
   <li> <p><strong>April 24th:</strong></p>  </li>
   <li> <p><strong>May 15th:</strong></p>  </li>
-  <li> <p><strong>May 29th:</strong></p>  </li>
+  <li> <p><strong>May 29th:</strong></p>  (Pauline will be away - check if someone can organize) </li>
+  <li> <p><strong>June 5th:</strong></p>  </li>
 </ul>
