@@ -35,7 +35,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>March 20th:</strong></p> Behnoosh NAMDARZADEH (Université Paris Cité) - Predicting Neural Machine Translation Success on Surface or BPE Forms? The Case of Mistranslations of French Spoken Dislocations into English </li></li>
   <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong>April 3rd:</strong></p> Sandrine Parrot - Why and how using multivariate analysis in neurochemistry studies?</li>
-  <li> <p><strong>April 17th:</strong></p>  Romaric and Eshaan </li>
+  <li> <p><strong>April 17th:</strong></p>  Romaric Thiboud and Eshaan (IMPACT)- When will you move? Brain computer interface based on motor preparation. </li>
   <li> <p><strong>April 24th:</strong></p>  </li>
   <li> <p><strong>May 15th:</strong></p>  </li>
   <li> <p><strong>May 29th:</strong></p>  (Pauline will be away - check if someone can organize) </li>
