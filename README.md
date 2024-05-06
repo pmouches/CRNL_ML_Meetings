@@ -37,7 +37,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>April 3rd:</strong></p> Sandrine Parrot - Why and how using multivariate analysis in neurochemistry studies?</li>
   <li> <p><strong>April 17th:</strong></p>  Romaric Thiboud and Eshaan (IMPACT)- When will you move? Brain computer interface based on motor preparation. </li>
   <br /> Room: F22, Neurocampus</li></li>
-  <li> <p><strong>May 15th:</strong></p>  </li>
+  <li> <p><strong>May 15th:</strong></p>  Agnès Guinard - Machine learning for anomaly detection: application to interictal spike detection in MEG data. </li>
   <li> <p><strong>May 29th:</strong></p>  (Pauline will be away - check if someone can organize) </li>
   <li> <p><strong>June 5th:</strong></p>  </li>
 </ul>
