@@ -39,6 +39,6 @@ These meetings gather all level researchers who are either using, plan to use, o
   <br /> Room: F22, Neurocampus</li></li>
   <li> <p><strong>May 15th:</strong></p>  Agnès Guinard - Machine learning for anomaly detection: application to interictal spike detection in MEG data.
   <br /> Room: F22, Neurocampus</li></li>
-  <li> <p><strong>May 29th:</strong></p>  (Pauline will be away - check if someone can organize) </li>
-  <li> <p><strong>June 5th:</strong></p>  </li>
+  <li> <p><strong>June 5th:</strong></p> Armand Demasson - Features based machine learning methods in time series data  : Application to detection of epileptic spike in MEG data </li>
+  <br /> Room: F28, Neurocampus</li></li>
 </ul>
