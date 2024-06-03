@@ -42,3 +42,6 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong>June 5th:</strong></p> Armand Demasson - Features based machine learning methods in time series data  : Application to detection of epileptic spike in MEG data </li>
   <br /> Room: F28, Neurocampus</li></li>
 </ul>
+
+<p><strong>SUMMER BREAK - We'll be back in Spetember </strong></p>
+
