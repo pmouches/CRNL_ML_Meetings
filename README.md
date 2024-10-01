@@ -16,7 +16,7 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong> December 17th:</strong>    
   <li> <p><strong> November 27th:</strong></p> Rodolphe Marbot -  </li>
   <br /> Room: F28, Neurocampus</li></li>
-    <li> <p><strong>October 16th:</strong></p> Pauline Mouchès - Interactive deep learning model for interictal epileptic spikes detection and annotation refinement in MEG data </li>
+    <li> <p><strong>October 14th, 🕜 1:30pm (exceptional day/time change) :</strong></p> Pauline Mouchès - Interactive deep learning model for interictal epileptic spikes detection and annotation refinement in MEG data </li>
   <br /> Room: F28, Neurocampus</li></li>
   </ul>
 <p><strong>SUMMER BREAK</strong></p>
