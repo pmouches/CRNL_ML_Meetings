@@ -13,7 +13,7 @@ These meetings gather all level researchers who are either using, plan to use, o
 ## Agenda for the coming meetings:
 
 <ul>
-  <li> <p><strong> December 17th:</strong>    
+  <li> <p><strong> December 17th:</strong> Perrine Ruby and Adam - Projet Reve-Emotion-ChatGPT </li>
   <li> <p><strong> November 27th:</strong></p> Rodolphe Marbot -  </li>
   <br /> Room: F28, Neurocampus</li></li>
     <li> <p><strong>October 14th, 🕜 1:30pm (exceptional day/time change) :</strong></p> Pauline Mouchès - Interactive deep learning model for interictal epileptic spikes detection and annotation refinement in MEG data </li>
