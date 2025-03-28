@@ -15,7 +15,19 @@ These meetings gather all level researchers who are either using, plan to use, o
 <ul>
   <li> <p><strong> April 16th - 2pm :</strong></p> AI Flash Talks </li>
   <br /> Room: F28, Neurocampus</li></li>
+<ul>
+  <li> Agnès Guinard - Software for event annotation and automated detection in MEG </li>
+  <li> Elias Boulanger - Transformer models for automated event detection in MEG  </li>
+  <li> Romain Quentin - MEG decoding </li>
+  <li> Jacqueline Scholl - Machine learning to predict psychiatric traits from naturalistic tasks </li>
+  <li> Tristan White - Machine Learning to identify craving in a gambling Task </li>
+  <li> Anastasios Dadiotis - Decoding relationships between emotion classifier predictions and self-reports </li>
+  <li> Benjamin-Ousmane M'Bengue - Improving Behavioral Assessment for Disorders of Consciousness through Machine Learning </li>
+  <li> Lizbeth Mondragón González - A-soid for focusing on behavioral extraction </li>
+  <li> Daniela  Domingues - DeepLabCut for body part tracking </li>
+  <li> Adam Prioux - Using LLMs to analyse dream reports </li>
 
+</ul>
   <li> <p><strong> December 18th:</strong></p> Perrine Ruby and Adam - Projet Reve-Emotion-ChatGPT </li>
   <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong> November 27th:</strong></p> Rodolphe Marbot -  Modeling spiking neural networks leveraging biologically plausible learning mechanisms for pattern processing </li>
