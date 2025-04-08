@@ -18,7 +18,7 @@ These meetings gather all level researchers who are either using, plan to use, o
 <ul>
   <li> Agnès Guinard - Software for event annotation and automated detection in MEG </li>
   <li> Elias Boulanger - Transformer models for automated event detection in MEG  </li>
-  <li> Romain Quentin - MEG decoding </li>
+  <li> Romain Quentin - sEEG decoding for neural replay detection</li>
   <li> Jacqueline Scholl - Machine learning to predict psychiatric traits from naturalistic tasks </li>
   <li> Tristan White - Machine Learning to identify craving in a gambling Task </li>
   <li> Anastasios Dadiotis - Decoding relationships between emotion classifier predictions and self-reports </li>
