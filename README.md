@@ -31,9 +31,6 @@ These meetings gather all level researchers who are either using, plan to use, o
   <li> <p><strong> December 18th:</strong></p> Perrine Ruby and Adam - Projet Reve-Emotion-ChatGPT </li>
   <br /> Room: F28, Neurocampus</li></li>
   <li> <p><strong> November 27th:</strong></p> Rodolphe Marbot -  Modeling spiking neural networks leveraging biologically plausible learning mechanisms for pattern processing </li>
-  <br /> Room: F28, Neurocampus</li></li>
-  <li> <p><strong>October 14th, 🕜 1:30pm (exceptional day/time change) :</strong></p> Pauline Mouchès - Interactive deep learning model for interictal epileptic spikes detection and annotation refinement in MEG data </li>
-  <br /> Room: Bibliothèque DYCOG, INSERM building (opposite to Neurocampusbuilding) </li></li>
   </ul>
 <p><strong>SUMMER BREAK</strong></p>
 <ul>
